@@ -1,2 +1,2 @@
-express-demo/node_modules/*
-feedback-express/node_modules/*
+./express-demo/node_modules
+./feedback-express/node_modules
